@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hw711</string>
+    <string name="morning_btn">утро</string>
+    <string name="afternoon_btn">день</string>
+    <string name="evening_btn">вечер</string>
+    <string name="sync_btn">синхронизация</string>
+    <string name="daytime">Текущее время суток</string>
+</resources>
